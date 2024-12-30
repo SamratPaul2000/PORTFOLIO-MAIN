@@ -16,12 +16,12 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Trip Booking Landing Page",
-    description: "First Project.. Its a Trip booking landing page",
+    title: "CSS Practice Design",
+    description: "First Project.. Its a dynamic CSS design page",
     image: "/images/P2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "https://trip-booking.vercel.app/",
+    previewUrl: "https://cssdesign-zeta.vercel.app/",
   },
   {
     id: 3,
